@@ -1,0 +1,13 @@
+table,th,td{
+    border: 1px solid limegreen;
+}
+table {
+  width: 20%;
+  border-color: limegreen;
+}
+th{
+    background-color: rgb(5, 145, 5);
+}
+th{
+    color: white;
+}

@@ -1,0 +1,22 @@
+p.a{
+    border-color: black;
+    border-style: solid;
+    border-width: 6px;
+    background-color: aqua;
+}
+p.b{
+    border-style: solid;
+    border-width: 4px;
+    background-color: aqua;
+}
+p.c{
+    border-style: solid;
+    border-width: 2px;
+    background-color: aqua; 
+}
+p.d{
+    color: aqua;
+    border-style: solid;
+    border-color: white;
+    background-color: aqua;
+}
