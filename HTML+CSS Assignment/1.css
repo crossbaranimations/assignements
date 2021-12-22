@@ -1,0 +1,21 @@
+h1{
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+h3{
+    font-style: italic;
+}
+body{
+    background-color: whitesmoke;
+    margin: 20%;
+    text-align: center;
+    margin-top: 33px;
+}
+img {
+    display: inline-block;
+    width: 65%;
+    }
+footer{
+        text-align: right;
+    }
